@@ -3,113 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yoshitani.github.io/blog/post/readme/</loc>
+    <loc>https://yoshitani.github.io/post/readme/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/post/</loc>
+    <loc>https://yoshitani.github.io/post/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/</loc>
+    <loc>https://yoshitani.github.io/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/categories/</loc>
+    <loc>https://yoshitani.github.io/categories/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/istio/</loc>
+    <loc>https://yoshitani.github.io/tags/istio/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
+    <loc>https://yoshitani.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/</loc>
+    <loc>https://yoshitani.github.io/tags/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/categories/tech/</loc>
+    <loc>https://yoshitani.github.io/categories/tech/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/06/02/istio08/</loc>
+    <loc>https://yoshitani.github.io/2018/06/02/istio08/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/05/24/set_up_my_ubuntu_desktop/</loc>
+    <loc>https://yoshitani.github.io/2018/05/24/set_up_my_ubuntu_desktop/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/categories/tips/</loc>
+    <loc>https://yoshitani.github.io/categories/tips/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/ubuntu/</loc>
+    <loc>https://yoshitani.github.io/tags/ubuntu/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/microservice/</loc>
+    <loc>https://yoshitani.github.io/tags/microservice/</loc>
     <lastmod>2018-05-23T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/security/</loc>
+    <loc>https://yoshitani.github.io/tags/security/</loc>
     <lastmod>2018-05-23T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/05/23/external_system_auth/</loc>
+    <loc>https://yoshitani.github.io/2018/05/23/external_system_auth/</loc>
     <lastmod>2018-05-23T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/05/23/service_2_service_auth/</loc>
+    <loc>https://yoshitani.github.io/2018/05/23/service_2_service_auth/</loc>
     <lastmod>2018-05-23T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/2018/05/23/istio-auto-injection-with-webhook/</loc>
+    <loc>https://yoshitani.github.io/2018/05/23/istio-auto-injection-with-webhook/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/tags/kubernetes/</loc>
+    <loc>https://yoshitani.github.io/tags/kubernetes/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/search/placeholder/</loc>
+    <loc>https://yoshitani.github.io/search/placeholder/</loc>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/top/about/</loc>
+    <loc>https://yoshitani.github.io/top/about/</loc>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/top/books/</loc>
+    <loc>https://yoshitani.github.io/top/books/</loc>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/search/</loc>
+    <loc>https://yoshitani.github.io/search/</loc>
   </url>
   
   <url>
-    <loc>https://yoshitani.github.io/blog/top/</loc>
+    <loc>https://yoshitani.github.io/top/</loc>
   </url>
   
 </urlset>

@@ -118,8 +118,7 @@ article a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica,
-  "Sawarabi Gothic",Meiryo,"メイリオ","Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN",YuGothic,"游ゴシック",Arial,sans-serif; 
+  font-family: "raleway", sans-serif;
   margin: 0;
   padding: 0;
   font-weight: 400;
